@@ -8,7 +8,7 @@ WeatherApp is a simple Android application that displays current weather informa
 - Reverse geocoded address of the user's location.
 - Display current system time.
 - Display weather information including temperature, humidity, and weather description.
-- - City search: Users can input a city name to fetch weather data for that specific city.
+- City search: Users can input a city name to fetch weather data for that specific city.
 - Persistent city name: The last searched city name is saved using SharedPreferences and loaded when the app starts.
 - Improved networking: Utilized Retrofit library for efficient network operations and handling JSON responses from the OpenWeatherMap API.
 - Enhanced user interface: Added a new main screen with an EditText for city input and a Button to fetch weather data. Displayed weather information in a TextView or a CardView for better visualization.
@@ -30,6 +30,7 @@ WeatherApp uses the following dependencies:
 
 ## Screenshots
 -![weatherApp](https://github.com/HazelLabrooy/WeatherApp/assets/158300148/3980249c-740c-47e9-bb81-0e65497c77c4)
+![weather2](https://github.com/HazelLabrooy/WeatherApp/assets/158300148/ebb78b6f-b686-4d9f-b3db-ba58a7d49a01)
 
 
 ## Additional Features
@@ -45,5 +46,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 
 ## Weather App Code
 This is the zip file of my android studio weather app [WeatherApp](https://github.com/HazelLabrooy/WeatherApp/blob/main/WeatherInformation.zip)
-The complete source code of the Android project can be found on GitHub: [WeatherApp](https://github.com/yourusername/WeatherApp)
+The complete source code of the Android project can be found on GitHub: [CompleteWeatherApp](https://github.com/HazelLabrooy/WeatherApp/blob/main/WeatherInformation_full.zip)
 
