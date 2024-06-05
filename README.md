@@ -8,6 +8,10 @@ WeatherApp is a simple Android application that displays current weather informa
 - Reverse geocoded address of the user's location.
 - Display current system time.
 - Display weather information including temperature, humidity, and weather description.
+- - City search: Users can input a city name to fetch weather data for that specific city.
+- Persistent city name: The last searched city name is saved using SharedPreferences and loaded when the app starts.
+- Improved networking: Utilized Retrofit library for efficient network operations and handling JSON responses from the OpenWeatherMap API.
+- Enhanced user interface: Added a new main screen with an EditText for city input and a Button to fetch weather data. Displayed weather information in a TextView or a CardView for better visualization.
 
 ## Getting Started
 To get started with WeatherApp, follow these steps:
@@ -30,6 +34,8 @@ WeatherApp uses the following dependencies:
 
 ## Additional Features
 -A user freindly interface for the weather app.
+- Added error handling to gracefully handle network errors and display appropriate messages to the user.
+- Implemented loading indicators to provide feedback to the user during network requests.
 
 ## Credits
 - Weather data provided by OpenWeatherMap: [OpenWeatherMap](https://openweathermap.org/)
@@ -39,4 +45,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 
 ## Weather App Code
 This is the zip file of my android studio weather app [WeatherApp](https://github.com/HazelLabrooy/WeatherApp/blob/main/WeatherInformation.zip)
+The complete source code of the Android project can be found on GitHub: [WeatherApp](https://github.com/yourusername/WeatherApp)
 
