@@ -37,6 +37,6 @@ WeatherApp uses the following dependencies:
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
-## Weather App Zipfile
+## Weather App Code
 This is the zip file of my android studio weather app [WeatherApp](https://github.com/HazelLabrooy/WeatherApp/blob/main/WeatherInformation.zip)
 
